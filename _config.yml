@@ -22,7 +22,7 @@ repository               : "WeiLi1024"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "weili.jpg"
+  avatar           : "weili.JPG"
   name             : "Wei Li"
   pronouns         : # example: "she/her"  
   bio              : "Wei Li is a postdoctoral research fellow at UT Austin. He holds a Ph.D. in Computer Science and works on large language models, multimodal AI, and risk-aware machine learning. Wei has published in top AI conferences and contributed to open-source vision–language models and datasets."
